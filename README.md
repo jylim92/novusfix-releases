@@ -60,9 +60,9 @@ Before running the app:
 
 For support, billing help, or business enquiries:
 
-- **Website:** [Add your website]
-- **Support email:** [Add your support email]
-- **Store:** [Add your Lemon Squeezy store link]
+- **Website:** https://novusfix.com/
+- **Support email:** support@novusfix.com
+- **Store:** https://novusfix.lemonsqueezy.com/checkout/buy/ddbc8fca-ee56-4fbd-85d3-59d2bc7134f3
 
 ## Release notes
 
